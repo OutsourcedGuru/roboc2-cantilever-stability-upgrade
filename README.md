@@ -2,7 +2,7 @@
 Step-by-step instructions for upgrading the Robo C2 with cantilever stability for the print bed.
 
 ## Overview
-The Robo C2 is an awesome printer. Nonetheless, it looks like the print bed is a little precariously cantilever from the back of the printer to the front, allowing a bit too much wiggle room. This appears to be resulting in wobble with tall parts especially when placed at the front of the print bed.
+The Robo C2 is an awesome printer. Nonetheless, it looks like the print bed is a little precariously cantilevered from the back of the printer to the front, allowing a bit too much wiggle room. This appears to be resulting in wobble with tall parts especially when placed at the front of the print bed.
 
 This upgrade hopes to add some stability to the print bed along the Y axis.
 

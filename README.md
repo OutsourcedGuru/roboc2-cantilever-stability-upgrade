@@ -6,8 +6,10 @@ The Robo C2 is an awesome printer. Nonetheless, it looks like the print bed is a
 
 This upgrade hopes to add some stability to the print bed along the Y axis.
 
-## Part to buy
-For this, you'll want eight M3 aluminum shoulder bolts anywhere from about 8mm to 12mm in length.
+![cantileverstabilityplate](https://user-images.githubusercontent.com/15971213/31394964-753765ae-ad94-11e7-9c70-ee4b2e93fe34.png)
+
+## Parts to buy
+For this, you'll want eight M3 aluminum shoulder bolts anywhere from about 8mm to 12mm in length. Feel free to also buy eight small lock washers to fit these M3 bolts.
 
 ## Part to print
 There's a single part to be printed. I'm sure that a carbon fiber—infused filament would be good here but I'm not sure if it merits the cost. It should work just as well with a cheaper PLA filament, I'd guess.

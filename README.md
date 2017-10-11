@@ -14,6 +14,11 @@ For this, you'll want eight M3 aluminum shoulder bolts anywhere from about 8mm t
 ## Part to print
 There's a single part to be printed. I'm sure that a carbon fiber—infused filament would be good here but I'm not sure if it merits the cost. It should work just as well with a cheaper PLA filament, I'd guess.
 
+### Important!
+Since this slicing of the part produces a print without raft/skirt/brim, it's important to babysit this about 45 minutes into the printout to watch for part curling on the front two edges.
+
+I then began using the back of the tweezers to push the hot plastic corners back down gently as a counter-measure approach. You'll reasonably have to do this for a few layers until it's decided not to curl again.
+
 ## Installation
 The print bed should be removed, the bed adjusted in height for your convenience and the printed part placed under the bed frame. The ribs should be aligned to face you and the flat side should be facing up.
 
